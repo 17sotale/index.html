@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Darko's Website</title>
+    </head>
+    <body>
+        <table cellspacing="20"> 
+            <tr>
+                <td><img src="images/kitty cat webdev-modified.png" alt="black cat"></td>
+                <td><h1>The Brothers</h1>
+                    <p><em>Destroyer of <strong>Worlds</strong></em></p>
+                    <p>This a bio for Darko,Figaro and their hillbilly brother. The following will tell you a bit about them.</p></td>
+            </tr>
+        </table>
+        <hr>
+        <h2>Cats</h2>
+            <ul>
+                <li>Darko</li>
+                <li>Figaro</li>
+                <li><em><a href="https://vcahospitals.com/know-your-pet/feline-herpesvirus-infection-or-feline-viral-rhinotracheitis">Gizmo</a></em></li>
+            </ul>
+        <hr>
+        <h3>Birth Dates</h3>
+            <table cellspacing="10">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Dates</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr> 
+                        <td>Darko</td>
+                        <td>March 2013</td>
+                    </tr>
+                    <tr>
+                        <td>Figaro</td>
+                        <td>March 2013</td>
+                    </tr>
+                    <tr>
+                        <td>Gizmo</td>
+                        <td>July 2017</td>
+                    </tr>
+                </tbody>
+            </table>
+        <hr>
+        <h3>Darko's Skills</h3>
+            <table cellspacing="10">
+                <tr>
+                    <td>Meow Power</td>
+                    <td>🐈🐈🐈🐈🐈</td>
+                </tr>
+                <tr>
+                    <td>Staying Quiet</td>
+                    <td>🐈🐈</td>
+                </tr>
+                <tr>
+                    <td>Not Staying Hydrated</td>
+                    <td>🐈🐈🐈🐈</td>
+                </tr>
+                <tr>
+                    <td>Staying Hydrated</td>
+                    <td>🐈🐈</td>
+                </tr>
+            </table>
+            <hr>
+        <a href="Cat Behaviors.html">Typical Pass Times</a>
+        <br><a href="Contact Info.html">How to contact these cool cats</a>
+    </body>
+</html>
